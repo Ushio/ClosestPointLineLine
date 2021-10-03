@@ -24,6 +24,8 @@ premake5 vs2019
 
 ```
 
+note: this doesn't include a corner case handling when d0 and d1 are perfectly parallel.
+
 ## deep explanation 
 [derivation](derivation.pdf)
 
