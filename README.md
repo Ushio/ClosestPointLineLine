@@ -33,4 +33,4 @@ note: this doesn't include a corner case handling when d0 and d1 are perfectly p
 Skew lines, https://en.m.wikipedia.org/wiki/Skew_lines#Nearest_Points
 
 Cool Patches: A Geometric Approach to Ray/Bilinear Patch Intersections, https://research.nvidia.com/publication/2019-03_Cool-Patches%3A-A
-
+> This article uses this technique - 8.4 line 31-40, 43-51 but they didn't explain how this approach works.
